@@ -1,0 +1,7 @@
+{
+  "name": "Công ty TNHH Xây dựng Sài Gòn LS",
+  "description": "Website doanh nghiệp xây dựng Sài Gòn LS - Kiến tạo không gian sống, vững bền theo thời gian. Chuyên thi công nhà phố, biệt thự, cải tạo và tư vấn dự toán.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
